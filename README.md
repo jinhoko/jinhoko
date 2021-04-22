@@ -23,3 +23,9 @@ To see full collection of my projects, please visit [academic blog > Projects ta
 - (data plaform) Apache Spark, Apache Hadoop, RDBMS, Redis, Apache Kafka
 - (deep learning) PyTorch
 - (server/linux) Docker, Kubernetes, Unix/Linux, Shell Scripting, Cloud Services(GCP/AWS)
+
+### Contact
+
+Please feel free to get in touch with me. Even for trivial ones are always welcome.
+- E-mail: jinho.ko@postech.ac.kr
+- LinkedIn: https://www.linkedin.com/in/jinhoko/
