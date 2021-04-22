@@ -16,7 +16,7 @@ I'm also running a personal blog where I occasionally write thoughts on technolo
 
 ### Projects
 
-To see full collection of my projects, please visit [My academic blog > Projects tab](https://jinhoko.github.io/projects). This repository includes some of the project codes.
+To see full collection of my projects, please visit [academic blog > Projects tab](https://jinhoko.github.io/projects). This repository includes some of the project codes.
 
 ### Coding/Tech Skills
 - (programming language) C/C++, Python, Java, Scala, SQL and etc.
