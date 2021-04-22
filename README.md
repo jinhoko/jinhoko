@@ -1,6 +1,6 @@
 # Jinho Ko
 
-**Greetings!**
+**Greetings!** :star_struck:	
 
 I am a senior student mainly studying computer science in POSTECH, South Korea.
 
