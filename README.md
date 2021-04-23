@@ -4,14 +4,14 @@
 
 I am a senior student mainly studying computer science in POSTECH, South Korea.
 
-TODO add my interests.
+My research/development interest primarily relies on all kinds of **big data platforms**, including database systems and distributed systems. I believe introducing deep learning into these systems will let these systems behave much smarter. I'm also interested in data-driven technologies such as knowledge base and deep learning systems that may bring new kinds of business insights.
 
 Details about my academic path are listed in my [academic blog](https://jinhoko.github.io/).  
-I'm also running a personal blog where I occasionally write thoughts on technologies, books and other stuffs.
+I'm also running a personal blog where I occasionally write thoughts on technologies, books, and other stuff.
 
 ### Projects
 
-To see full collection of my projects, please visit [academic blog > Projects tab](https://jinhoko.github.io/projects). This repository includes some of the project codes.
+To see the full collection of my projects, please visit [academic blog > Projects tab](https://jinhoko.github.io/projects). This repository includes some of the project codes.
 
 ### Coding/Tech Skills
 - (programming language) C/C++, Python, Java, Scala, SQL and etc.
@@ -21,6 +21,6 @@ To see full collection of my projects, please visit [academic blog > Projects ta
 
 ### Contact
 
-Please feel free to get in touch with me. Even for trivial ones are always welcome.
+Please feel free to get in touch with me. Even trivial ones are always welcome.
 - E-mail: jinho.ko@postech.ac.kr
 - LinkedIn: https://www.linkedin.com/in/jinhoko/
