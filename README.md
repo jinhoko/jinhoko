@@ -6,8 +6,8 @@ I am a senior student mainly studying computer science in POSTECH, South Korea.
 
 My research/development interest primarily relies on all kinds of **big data platforms**, including database systems and distributed systems. I believe introducing deep learning into these systems will let them behave much smarter. I'm also interested in data-driven technologies such as knowledge base and deep learning systems that may bring revolutionary business insights.
 
-Details about my academic path are listed in my [academic blog](https://jinhoko.github.io/).  
-I'm also running a [personal blog](https://jinhoko.github.io/jinhoko-com) where I occasionally write thoughts on technologies, books, and other stuff.
+Details about my academic path are listed in my [academic website](http://jinhoko.com/).  
+I'm also running a [personal blog](http://blog.jinhoko.com/) where I occasionally write thoughts on technologies, books, and other stuff.
 
 ### Projects
 
