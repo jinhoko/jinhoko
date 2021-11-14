@@ -2,16 +2,16 @@
 
 **Greetings!** :star_struck:	
 
-I am a senior student mainly studying computer science in POSTECH, South Korea.
+I am a senior student mainly studying computer science in POSTECH.
 
-My research/development interest primarily relies on all kinds of **big data platforms**, including database systems and distributed systems. I believe introducing deep learning into these systems will let them behave much smarter. I'm also interested in data-driven technologies such as knowledge base and deep learning systems that may bring revolutionary business insights.
+My research/development interest primarily lies in all kinds of **big data systems**, including database systems and distributed systems. I believe introducing deep learning into these systems will let them behave much smarter. I'm also interested in a wide range of data-driven technologies(along with its own system) such as knowledge base(+NLP) and automated stock trading systems that may bring revolutionary business insights. 
 
-Details about my academic path are listed in my [academic website](http://academics.jinhoko.com/).  
+Details about my academic career are listed in my [academic website](http://academics.jinhoko.com/).  
 I'm also running a [personal blog](http://blog.jinhoko.com/) where I occasionally write thoughts on technologies, books, and other stuff.
 
 ### Projects
 
-To see the full collection of my projects, please visit [academic blog > Projects tab](https://jinhoko.github.io/projects). This repository includes some of the project codes.
+To see the full collection of my projects, please visit [academic blog > Projects tab](https://academics.jinhoko.com/projects). This repository includes some of the project codes.
 
 ### Coding/Tech Skills
 - (programming language) C/C++, Python, Java, Scala, SQL and etc.
