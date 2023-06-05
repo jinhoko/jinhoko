@@ -2,7 +2,7 @@
 
 **Greetings!** :star_struck:	
 
-I am a Ph.D. student at POSTECH. My research/development interests primarily lie in all kinds of **big data systems** including database systems and distributed systems. I'm also interested in a wide range of data-driven technologies (along with its own system) such as knowledge graphs that may bring revolutionary business insights.
+I am a Graduate student at POSTECH. My research/development interests primarily lie in all kinds of **big data systems** including database systems and distributed systems. I'm also interested in a wide range of data-driven technologies (along with its own system) such as knowledge graphs that may bring revolutionary business insights.
 
 Details about my career are listed in my [career website](http://jinhoko.com/).  
 I'm also running a [personal blog](http://blog.jinhoko.com/) where I occasionally write thoughts on technologies, books, and other stuff.
